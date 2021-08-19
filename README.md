@@ -14,7 +14,7 @@ This repository contains Keras implementations of the paper: Natural Text Attack
 * OpenHowNet == 0.0.1a8
 * numpy == 1.15.4
 * scikit_learn == 0.21.2
-* If you did not download WordNet before, use `nltk.download('wordnet')` to do so.(Cancel the code comment on line 9 in `BU_SPO_paraphrase. py`) 
+* If you did not download WordNet before, use `nltk.download('wordnet')` to do so.(Cancel the code comment on line 20 in `BU_SPO_paraphrase. py`) 
 
 
 ## Usage
