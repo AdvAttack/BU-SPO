@@ -2,7 +2,7 @@
 
 This repository contains Keras implementations of the paper: Natural Text Attacks with Adaptive Semantic Preservation Optimization.
 <p align="center">
-<img src="https://github.com/AdvAttack/BU-SPO/blob/master/image/fig-flowchart.png" width=100% height=100%>
+<img src="https://github.com/AdvAttack/BU-SPO/blob/main/image/fig-flowchart.png" width=80% height=80%>
 </p>
 
 ## Requirements
