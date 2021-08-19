@@ -17,7 +17,7 @@ import spacy
 from functools import partial
 from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag
-nltk.download('wordnet')
+# nltk.download('wordnet')
 from nltk.corpus import wordnet as wn
 from get_NE_list import NE_list
 import numpy as np
