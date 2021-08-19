@@ -25,7 +25,7 @@ This repository contains Keras implementations of the paper: Natural Text Attack
 * Run `bigram.py` to generate bigram candidates or use the prelearnd bigram data in `/bigram`.
 * To ensure the quick reproducibility, we provide HowNet candidate in [google drive](https://drive.google.com/drive/folders/18b_opVai9igJMze4h_Ip0wewuW2czuRi?usp=sharing). To recalculate the HowNet candidate set, run `build_embeddings.py`, `gen_pos_tag.py`, `lemma.py` and `gen_candidates.py` under the `/hownet_candidates` for each dataset.
 * Run `BU_SPO_fool.py` to generate adversarial examples using BU-MHS.
-* If you want to train or fool different models, reset the argument in `training.py`and`fool.py`.
+* If you want to train or fool different models, reset the argument in `training.py`and`BU_SPO_fool.py`.
 
 
 ## Contact
