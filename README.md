@@ -1,6 +1,6 @@
 # Semantic-Preserving Adversarial Text Attacks
 
-This repository contains Keras implementations of the paper: Semantic-Preserving Adversarial Text Attacks.
+This repository contains Keras implementations of the paper: [Semantic-Preserving Adversarial Text Attacks](http://arxiv.org/abs/2108.10015).
 <p align="center">
 <img src="https://github.com/AdvAttack/BU-SPO/blob/main/image/fig-flowchart.png" width=100% height=100%>
 </p>
